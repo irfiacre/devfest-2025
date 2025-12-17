@@ -1,1 +1,6 @@
 google-adk
+google-cloud-aiplatform
+google-cloud-storage
+google-genai
+gitpython
+dotenv
