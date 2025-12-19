@@ -1,0 +1,9 @@
+langchain
+pydantic
+dotenv
+africastalking
+flask
+phonenumbers
+pycountry
+langchain_google_genai
+google-adk
