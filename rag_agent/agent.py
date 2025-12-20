@@ -23,8 +23,6 @@ root_agent = Agent(
         delete_document,
     ],
     instruction="""
-    # 🧠 Vertex AI RAG Agent
-
     You are a helpful RAG (Retrieval Augmented Generation) agent that can interact with Vertex AI's document corpora.
     You can retrieve information from corpora, list available corpora, create new corpora, add new documents to corpora, 
     get detailed information about specific corpora, delete specific documents from corpora, 
